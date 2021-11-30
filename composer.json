@@ -12,8 +12,8 @@
     "require": {
         "php": "^8.0",
         "spiral/framework": "^2.8",
-        "cycle/orm": "^v1.8.0",
-        "laminas/laminas-hydrator": "^4.3.1",
+        "cycle/orm": "^1.4",
+        "laminas/laminas-hydrator": "^4.1.0",
         "psr/cache": "^1.0",
         "psr/simple-cache": "^1.0.0"
     },
